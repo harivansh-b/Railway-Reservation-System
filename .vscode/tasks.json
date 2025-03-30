@@ -1,0 +1,28 @@
+{
+   "tasks": [
+      {
+         "type": "cppbuild",
+         "label": "C/C++: gcc.exe build Railway.c",
+         "command": "C:\\MinGW\\bin\\gcc.exe",
+         "args": [
+            "-fdiagnostics-color=always",
+            "-g",
+            "${file}",
+            "-o",
+            "${workspaceFolder}\\src\\bin\\${fileBasenameNoExtension}.exe"
+         ],
+         "options": {
+            "cwd": "${fileDirname}"
+         },
+         "problemMatcher": [
+            "$gcc"
+         ],
+         "group": {
+            "kind": "build",
+            "isDefault": true
+         },
+         "detail": "Compiles the active C file and stores the executable in src/bin."
+      }
+   ],
+   "version": "2.0.0"
+}

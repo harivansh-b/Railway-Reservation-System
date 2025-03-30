@@ -1,0 +1,43 @@
+Kovai SF Express,12675,dt,4
+Chennai,07:03,07:05,0
+Salem,11:02,11:05,337
+Erode,12:00,12:05,63
+Coimbatore,14:05,END,91
+Kovai SF Express,12676,dt,4
+Coimbatore,15:15,15:18,0
+Erode,16:40,16:45,91
+Salem,17:37,17:40,63
+Chennai,22:50,END,337
+Kashi Tamil Express,16367,dt,8
+Chennai,06:15,06:20,0
+Villupuram,08:41,09:12,159
+Thanjavur,11:16,11:21,192
+Dindigul,13:50,13:55,145
+Madurai,14:00,14:05,62
+Tirunelveli,16:06,16:10,156
+Nagercoil,18:24,18:54,73
+Kanyakumari,19:30,END,20
+Coimbatore Nagercoil SF Express,22668,dt,6
+Coimbatore,09:00,09:05,0
+Erode,11:10,11:12,91
+Dindigul,13:35,13:37,139
+Madurai,14:50,15:00,65
+Tirunelveli,17:55,18:00,157
+Nagercoil,20:10,END,73
+Nagercoil Coimbatore SF Express,22667,nt,6
+Nagercoil,21:55,22:00,0
+Tirunelveli,23:10,23:15,73
+Madurai,01:40,01:45,157
+Dindigul,02:57,03:00,65
+Erode,05:10,05:15,139
+Coimbatore,07:15,END,91
+Cheran SF Express,12674,nt,4
+Coimbatore,22:50,22:53,0
+Erode,00:20,00:25,91
+Salem,01:17,01:20,63
+Chennai,07:00,END,334
+Vaigai Express,12635,nt,4
+Madurai,22:30,22:32,0
+Dindigul,00:07,00:10,62
+Villupuram,04:15,04:20,272
+Chennai,06:25,END,159
